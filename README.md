@@ -30,12 +30,12 @@ Welcome to my GitHub profile! I am an undergraduate pursuing my Higher National 
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandun007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandun007&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandun007&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandun007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
